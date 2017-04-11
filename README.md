@@ -1,1 +1,2 @@
-# meta-zgemma-4
+# meta-zgemma
+BSP layer for Zgemma Star models
